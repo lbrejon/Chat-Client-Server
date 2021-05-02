@@ -1,4 +1,4 @@
-# Chat_Client_Server [CLOSED]
+# Chat Client/Server [CLOSED]
 The objective of the project is the realization of a client/server chat application in C allowing to exchange messages between 2 users, between several users, or to all the users connected on the network (localhost), as well as to send files.
 
 ## Table of contents
