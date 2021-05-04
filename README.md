@@ -52,7 +52,7 @@ Additional commands have been created such as :
 - /color : to change the color of the terminal (see _textcolor.c_ and _textcolor.h_ files)
 - /man_color : to see the manual of the /color command
 
-**Command /help :**
+**View all commands :**
 ![chat_command_help](https://user-images.githubusercontent.com/56866008/116995576-850cf900-acda-11eb-8563-1cfb3d174559.png)
 
 ## Acquired skills
