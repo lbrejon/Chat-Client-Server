@@ -39,7 +39,7 @@ The project is developped with **C**.
 - Users can then **join this room**, and once registered, the users of the room can **exchange messages** between themselves.
 - Users can **leave the room or change rooms** whenever they want.
 
-**Create, join, leave a room and discuss with the members present**
+**Create, join, leave a room and discuss with the members present :**
 ![chat_room_1](https://user-images.githubusercontent.com/56866008/116995580-85a58f80-acda-11eb-8996-15bc5c16b016.png)
 ![chat_room_2](https://user-images.githubusercontent.com/56866008/116995581-85a58f80-acda-11eb-9267-4458b1b5244f.png)
 
