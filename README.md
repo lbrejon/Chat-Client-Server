@@ -59,18 +59,29 @@ Additional commands have been created such as :
 
 ## Launch the program
 Follow instructions below :
-
-**gcc -Wall client.c -o client**
-
-**gcc -Wall server.c -o server**
-
+```
+gcc -Wall client.c -o client
+```
+```
+gcc -Wall server.c -o server
+```
 Each window in the terminal will represent an individual (client or server). To establish a communication, there will be at least 2 terminals open (because 1 server + 1 client).
 
-In the first terminal (which will represent the server), a port number must be chosen when the program is launched (example : 8080, 8081, 8082, ..) : "**./server 8080**"
+In the first terminal (which will represent the server), a port number must be chosen when the program is launched (example : 8080, 8081, 8082, ..) :
+```
+./server 8080
+```
 
-In a 2nd terminal (which will represent a client), you have to choose an IP address (here localhost) and a port number : "**./client localhost 8080**"
+In a 2nd terminal (which will represent a client), you have to choose an IP address (here localhost) and a port number : 
+```
+./client localhost 8080
+```
 
-For a 3rd client, it should be: "**./client localhost 8080**" and so on if we want to add clients.
+For a 3rd client, it should be:
+```
+./client localhost 8080
+```
+and so on if we want to add clients.
 
 ## Acquired skills
 - Manipulation of C structures
