@@ -5,7 +5,7 @@ The objective of the project is the realization of a client/server chat applicat
 * [My goals](#my-goals)
 * [Technologies](#technologies)
 * [Description](#description)
-* [Launch the game](#launch-the-game)
+* [Launch the program](#launch-the-program)
 * [Acquired skills](#acquired-skills)
 * [Informations](#informations)
 
@@ -57,7 +57,7 @@ Additional commands have been created such as :
 
 ![chat_command_help](https://user-images.githubusercontent.com/56866008/116995576-850cf900-acda-11eb-8563-1cfb3d174559.png)
 
-## Launch the game
+## Launch the program
 Follow instructions below :
 
 **gcc -Wall client.c -o client**
